@@ -1,0 +1,8 @@
+.author::after {
+    content: ' - ';
+    color: lightgray;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 0;
+    display: inline;
+}
